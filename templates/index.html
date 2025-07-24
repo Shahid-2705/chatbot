@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ZoroBot 🤖</title>
+    <link rel="stylesheet" href="/static/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <img src="/static/zoro_logo.png" alt="Zoro Logo" class="logo" />
+        ZoroBot 🤖
+      </header>
+
+      <main id="chat-container" role="log" aria-live="polite"></main>
+
+      <div id="input-wrapper">
+        <form id="chat-form" class="input-group" aria-label="Send a message">
+          <input
+            type="file"
+            id="pdf-upload"
+            accept=".pdf"
+            aria-label="Upload PDF"
+          />
+
+          <input
+            type="text"
+            id="user-input"
+            placeholder="Ask something..."
+            required
+            autocomplete="off"
+            aria-label="Chat input"
+          />
+
+          <div class="action-buttons">
+            <button type="submit" id="send-btn" aria-label="Send">Send</button>
+            <button id="clear-btn" type="button" aria-label="Clear chat">
+              Clear
+            </button>
+            <button id="mic-btn" type="button" aria-label="Voice input">
+              🎤
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+  </body>
+</html>

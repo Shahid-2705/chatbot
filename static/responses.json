@@ -1,0 +1,21 @@
+{
+  "hi": "👋 Hello! I'm ZoroBot. How can I assist you today?",
+  "hello": "👋 Hey there! What can I do for you?",
+  "hey": "👋 Hi! Need help with something?",
+  "how are you": "😊 I'm just a bot, but I'm running smoothly!",
+  "who are you": "🤖 I'm ZoroBot, your AI-powered assistant designed to help with documents, Wikipedia, and more.",
+  "what can you do": "💡 I can read PDFs, search Wikipedia, respond with general knowledge, and even use LLaMA as a fallback!",
+  "help": "🆘 Try asking me:\n- 'Upload a PDF'\n- 'Tell me about India'\n- 'Who is Elon Musk?'\n- 'What is quantum computing?'",
+  "thank you": "🙏 You're welcome!",
+  "thanks": "😊 Happy to help!",
+  "bye": "👋 Goodbye! Come back soon.",
+  "goodbye": "👋 Take care!",
+  "what is your name": "🧠 I'm ZoroBot. Named after the swordmaster, but much smarter 😄.",
+  "who made you": "🛠️ I was built by Mohamed Shahid with the power of AI, Python, and the Zoro spirit.",
+  "tell me a joke": "😂 Why did the computer go to art school? Because it had a lot of processing to do!",
+  "open ai": "🌐 OpenAI is the organization behind GPT, ChatGPT, and other cutting-edge AI models.",
+  "what is ai": "🧠 Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn.",
+  "what is machine learning": "📊 Machine Learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed.",
+  "who is elon musk": "🚀 Elon Musk is the CEO of SpaceX and Tesla, known for his ambitious ventures into electric vehicles, space travel, and AI.",
+  "how does a rocket work": "🚀 Rockets work by expelling exhaust gases out of a nozzle at high speed, pushing the rocket forward via Newton's third law."
+}
