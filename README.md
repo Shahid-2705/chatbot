@@ -80,8 +80,7 @@ ZoroBot is an intelligent chat application built with Flask that leverages the p
 ZoroBot/ ├── app.py # Main Flask application logic ├── requirements.txt # Python dependencies ├── static/ │ ├── responses.json # Predefined chat responses │ ├── script.js # Frontend JavaScript for chat functionality │ ├── style.css # CSS for styling the application │ ├── zoro_bg.png # Background image │ ├── zoro_lo.png # Logo variant │ └── zoro_logo.png # Main logo ├── templates/ │ └── index.html # HTML template for the chat interface └── uploads/ # Directory for uploaded PDF files (created if not exists) ├── Disease_Diagnosis_Report.pdf ├── Mohamed_Shahid_H.pdf └── Titanic_EDA_Report.pdf
 
 
-Run
-Copy code
+
 
 ## 🤝 Contributing
 
